@@ -2,11 +2,11 @@
 
 <div align='justify'>
 
-Este repositório tem como objetivo explorar e demonstrar o poder das estruturas de dados fundamentais em Python: listas, tuplas, dicionários e sets. Você encontrará exemplos práticos e esclarecedores que ilustram como utilizar essas estruturas para análise de dados de forma eficaz. Nosso foco é mostrar como essas estruturas podem ser aproveitadas em diversas situações de análise de dados, oferecendo uma base sólida para projetos mais complexos
+Este repositório tem como objetivo explorar e demonstrar o poder das estruturas de dados fundamentais em Python: listas, tuplas, dicionários e sets. Você encontrará exemplos práticos e esclarecedores que ilustram como utilizar essas estruturas para análise de dados de forma eficaz. Meu foco é mostrar como essas estruturas podem ser aproveitadas em diversas situações de análise de dados, oferecendo uma base sólida para projetos mais complexos
 
 ## Estruturas de Dados
 
-Antes de mergulharmos na análise de dados em Python, é importante compreender o que são estruturas de dados. Em termos simples, estruturas de dados são formas organizadas de armazenar e gerenciar informações em um programa de computador. Neste repositório, vamos explorar quatro das estruturas de dados fundamentais em Python: listas, tuplas, dicionários e sets, e discutir como cada uma delas desempenha um papel crucial na análise de dados.
+Antes de mergulhar na análise de dados em Python, é importante compreender o que são estruturas de dados. Em termos simples, estruturas de dados são formas organizadas de armazenar e gerenciar informações em um programa de computador. Neste repositório, vamos explorar quatro das estruturas de dados fundamentais em Python: listas, tuplas, dicionários e sets, e discutir como cada uma delas desempenha um papel crucial na análise de dados.
 
 Listas: Listas são sequências ordenadas e mutáveis de elementos em Python. Elas são frequentemente usadas na análise de dados para armazenar coleções de informações relacionadas, como valores de uma coluna em um conjunto de dados. Listas permitem a manipulação e análise de dados, como ordenação, filtragem e agregação de valores.
 
